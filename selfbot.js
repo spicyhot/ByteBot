@@ -10,7 +10,7 @@ bot.on('message', message => {
         }
   
 bot.on('message', message => {
-    if (message.content===',killjoao') {
+    if (message.content===',meme') {
         message.edit('https://i.imgur.com/NksGlzB.gifv');
         }
 });
